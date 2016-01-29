@@ -56,3 +56,8 @@
 .card-link:hover{
   opacity: 0.1;
 }
+.card-image-size{
+  width: 100px;
+  height: 100px;
+  margin: auto;
+}
