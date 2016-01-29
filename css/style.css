@@ -1,0 +1,41 @@
+@import url("components/avatar.css");
+@import url("components/banner.css");
+@import url("components/footer.css");
+@import url("components/card.css");
+
+body {
+  margin: 0;
+  font-family: Open-sans, sans-serif;
+}
+h1, h2, h3 {
+  font-family: Raleway, Helvetica, sans-serif;
+}
+h2 {
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 12px;
+  margin-top: 0;
+}
+.padded {
+  padding: 100px 0;
+}
+.wrapper-grey {
+  background: #F4F4F4;
+}
+.form-max-width{
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 5px;
+}
+/*#img-chateau-salomon{
+  margin-bottom: 15px;
+}
+#img-omegagenics{
+  margin-bottom: 23px;
+}*/
+.card-image-size{
+  width: 100px;
+  height: 100px;
+  margin: auto;
+}
